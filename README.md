@@ -16,8 +16,8 @@
 # Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-repository-url
-cd your-project-directory
+git clone https://github.com/BlackDayt/rest-api-openapi-isansds
+cd your-project
 ```
 
 2. Установите зависимости проекта:
