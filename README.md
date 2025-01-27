@@ -1,4 +1,4 @@
-# rest-api-openapi-isansds
+# tech-registry-rest-openapi
 Этот проект реализует REST-приложение для ведения реестра техники (телевизоры, пылесосы, холодильники, смартфоны и ПК) с привязкой моделей к технике. Для каждого вида техники предусмотрены свои атрибуты. Проект использует Spring Boot и PostgreSQL для хранения данных. Также реализована документация через OpenAPI v3, доступная на Swagger.
 
 # Требования
@@ -16,7 +16,7 @@
 # Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/BlackDayt/rest-api-openapi-isansds
+git clone https://github.com/BlackDayt/tech-registry-rest-openapi
 cd your-project
 ```
 
